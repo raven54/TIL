@@ -1,7 +1,3 @@
----
-title : HTML
----
-
 ## HTML basics
 
 ### HTML in HTML
@@ -9,4 +5,3 @@ title : HTML
 ``` bash
 <? include "mainpdbanner.html" ?>
 ```
-More info : [TEST](https://github.com/)
