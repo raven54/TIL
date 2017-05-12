@@ -3,11 +3,11 @@
 
 ### Categrories
 
-* [HTML](#HTML)
-* [CSS](#CSS)
-* [Javascript](#Javascript)
-* [jQuery](#jQuery)
-* [ETC](#ETC)
+* [HTML](#html)
+* [CSS](#css)
+* [Javascript](#javascript)
+* [jQuery](#jquery)
+* [ETC](#etc)
 ***
 
 ### HTML
