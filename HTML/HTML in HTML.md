@@ -1,11 +1,5 @@
 ### HTML in HTML
 
-#### HTML
-``` bash
-<? include "sample.html" ?>
-```
-
-
 #### PHP
 ``` bash
 <? include "sample.html" ?>
