@@ -2,7 +2,6 @@
 
 ### simple active class menu
 
-jQuery
 ``` bash
 $(document).ready(function(){
   $('ul li').click(function(){
